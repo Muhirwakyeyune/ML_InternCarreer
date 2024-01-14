@@ -1,0 +1,1 @@
+print(" you will not struggle")
